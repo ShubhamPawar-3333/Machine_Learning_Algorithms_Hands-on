@@ -5,7 +5,7 @@ Linear Regression Implementation
 This module provides a clean implementation of Linear Regression
 both from scratch and using scikit-learn.
 
-Author: Your Name
+Author: Shubham Pawar
 Date: 2025-12-01
 """
 
